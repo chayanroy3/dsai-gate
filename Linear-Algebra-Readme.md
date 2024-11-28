@@ -45,7 +45,7 @@ Course to deepen your knowledge:
 
 Review these comprehensive notes to reinforce your grasp :
 
-- [**Short Notes Linear Algebra by Prof. Gilbert Strang**](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/13c014d45cb504519389d6640e673ba4_ZoomNotes_18-010.pdf)
+- [**Short Notes Linear Algebra by Prof. Gilbert Strang**](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/mitres_18_010_s20_zoomnotes.pdf)
 ZOOMNOTES FOR LINEAR ALGEBRA : GILBERT STRANG Massachusetts Institute of Technology
 
 
